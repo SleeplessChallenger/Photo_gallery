@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+}
+
+img {
+	width: 30%; /*30 will be every image*/
+	/*margin: 1.25%;*/
+	margin: calc(10%/8);
+}
+
+
+nav {
+	text-transform: uppercase;
+	border-bottom: 3px solid orange;
+	width: 40%;
+	margin-left: calc(10%/8);
+	font-size: 1.4rem;
+	padding: 1em;
+	font-family: 'Akaya Telivigala', cursive;
+}
+
+
+section	{
+	background: url('https://images.unsplash.com/photo-1582138932367-2f32ddcd1b25?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTF8fGNvbG9yJTIwYmFja2dyb3VuZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60')
+}
